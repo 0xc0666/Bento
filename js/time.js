@@ -1,18 +1,18 @@
 window.onload = displayClock();
 function displayClock() {
   const monthNames = [
-    'Янв',
-    'Фев',
+    'Янв.',
+    'Фев.',
     'Март',
-    'Апр',
+    'Апр.',
     'Май',
     'Июнь',
     'Июль',
-    'Авг',
-    'Сен',
-    'Окт',
-    'Ноя',
-    'Дек',
+    'Авг.',
+    'Сен.',
+    'Окт.',
+    'Ноя.',
+    'Дек.',
   ];
 
   // Set to true to use a 12 hour date format
